@@ -12,7 +12,7 @@ The Ship Classification Project aims to develop a machine learning model that ca
 
 ## Project Phases
 
-### 1. Ideation Phase (https://github.com/smartinternz02/SI-GuidedProject-600206-1697472221/tree/main/Ideation)
+### [1. Ideation Phase ](https://github.com/smartinternz02/SI-GuidedProject-600206-1697472221/tree/main/Ideation)
 
 In this initial phase, we will focus on brainstorming and gathering insights about the project. We'll employ two valuable tools:
 
