@@ -23,3 +23,15 @@ The Empathy Map Canvas will help us deeply understand the perspectives and needs
 #### Brainstorming Map
 
 The Brainstorming Map will serve as a hub for creative thinking, allowing us to explore a wide range of ideas and strategies for the Ship Classification Project.
+
+<h3><a href="Design">2. Design Phase</a></h3>
+In the Design Phase, we will create a blueprint for our ship classification solution. This phase will include the following key elements:
+
+#### Proposed Solution
+We'll define the overall solution for ship classification. This involves defining the problem statement, idea, novelty, social impact, business model, scalability
+
+#### Solution Architecture
+We will design the technical architecture of our ship classification system. This will include deciding on the infrastructure, such as cloud services or on-premises servers, and how the various components of the system will interact along with a software diagram.
+
+#### Data Flow Diagram
+A data flow diagram will illustrate how data will be collected, processed, and fed into the machine learning model. It will show the data sources, data processing steps, and model training and evaluation processes.
