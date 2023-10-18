@@ -28,7 +28,7 @@ The Brainstorming Map will serve as a hub for creative thinking, allowing us to 
 In the Design Phase, we will create a blueprint for our ship classification solution. This phase will include the following key elements:
 
 #### Proposed Solution
-We'll define the overall solution for ship classification. This involves defining the problem statement, idea, novelty, social impact, business model, scalability
+We'll define the overall solution for ship classification. This involves defining the problem statement, idea, novelty, social impact, business model, scalability.
 
 #### Solution Architecture
 We will design the technical architecture of our ship classification system. This will include deciding on the infrastructure, such as cloud services or on-premises servers, and how the various components of the system will interact along with a software diagram.
