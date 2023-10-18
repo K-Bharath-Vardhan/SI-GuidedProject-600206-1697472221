@@ -1,27 +1,20 @@
-# Project Design Phase
+# Project Design Phase 
 
-Welcome to the Design Phase of our Ship Classification Project. In this section, you'll find crucial information about our proposed solution, solution architecture, and a data flow diagram.
+## Table of Contents
 
-##1. [Proposed Solution](Proposed%20Solution.pdf)
+### Proposed Solution
+The proposed solution encompasses various key aspectssuch as:
+- Problem Statement
+- Idea
+- Novelty
+- Social Impact
+- Business Model
+- Scalability
 
-In this section, we outline the proposed solution, including its objectives and expected outcomes. This solution is designed to address specific challenges and meet the project's goals.
+### Solution Architecture
+Our solution for ship classification employs a sophisticated architecture. We utilize deep learning models, primarily relying on transfer learning and Convolutional Neural Networks (CNNs) to achieve our objectives. This architecture is designed to significantly enhance the ship classification process, offering a comprehensive approach to maritime safety and traffic management.
 
-## Solution Architecture
+### Data Flow Diagram
+The data flow diagram illustrates the movement of data within our solution. It provides a visual representation of how data is collected, processed, and utilized for ship classification and traffic management.
 
-### High-Level Architecture
-
-Our solution architecture is designed to ensure efficiency, scalability, and reliability. Here's an overview of the key components:
-
-#### Component 1: [Component Name]
-- **Description**: Explain the purpose and functionality of this component.
-- **Technology Stack**: List the technologies, frameworks, or languages used.
-- **Dependencies**: Mention any external services, libraries, or tools required.
-
-#### Component 2: [Component Name]
-- **Description**: Explain the purpose and functionality of this component.
-- **Technology Stack**: List the technologies, frameworks, or languages used.
-- **Dependencies**: Mention any external services, libraries, or tools required.
-
-## Data Flow Diagram
-
-We've created a data flow diagram to illustrate how information moves through the system. This diagram represents the flow of data within the project.
+Feel free to explore these resources. We appreciate your input and ideas as we embark on this exciting journey of ship classification.
