@@ -7,6 +7,7 @@ Welcome to the Ideation Phase of our Ship Classification Project. In this sectio
 
 #### Empathy Map Canvas 
 Gain a deep understanding of our target audience, their needs, and pain points with our Empathy Map Canvas. This tool will help us develop user-centric solutions.
+
 ![EPC](Ideation/Empathy Map Canvas 2023-10-18.png)
 
 #### Brainstorming Map
