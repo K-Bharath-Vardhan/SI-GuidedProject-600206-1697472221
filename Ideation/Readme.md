@@ -7,8 +7,7 @@ Welcome to the Ideation Phase of our Ship Classification Project. In this sectio
 
 <h4><a href="Empathy%20Map%20Canvas.pdf">Empathy Map Canvas</a> </h4>
 Gain a deep understanding of our target audience, their needs, and pain points with our Empathy Map Canvas. This tool will help us develop user-centric solutions.
-
-
+<br>
 Link to our mural: https://app.mural.co/t/vitsmartinternz0250/m/vitsmartinternz0250/1697374528904/b6530f5fe12a45836dcc2efb9d2a440867e720b8?sender=u5e5d867d72b277d897990555
 
 <h4><a href = "Brainstorming%Map.pdf">Brainstorming Map</a></h4>
