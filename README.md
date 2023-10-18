@@ -12,7 +12,7 @@ The Ship Classification Project aims to develop a machine learning model that ca
 
 ## Project Phases
 
-[<h3>1. Ideation Phase</h3>](www.google.com)
+[<h3>1. Ideation Phase</h3>](/Ideation)
 
 In this initial phase, we will focus on brainstorming and gathering insights about the project. We'll employ two valuable tools:
 
