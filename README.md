@@ -12,7 +12,7 @@ The Ship Classification Project aims to develop a machine learning model that ca
 
 ## Project Phases
 
-<h3><a href="Ideation">1. Ideation Phase</a></h3>
+<h3><a href="1.%20Ideation%20Phase">1. Ideation Phase</a></h3>
 
 In this initial phase, we will focus on brainstorming and gathering insights about the project. We'll employ two valuable tools:
 
@@ -24,7 +24,7 @@ The Empathy Map Canvas will help us deeply understand the perspectives and needs
 
 The Brainstorming Map will serve as a hub for creative thinking, allowing us to explore a wide range of ideas and strategies for the Ship Classification Project.
 
-<h3><a href="Design">2. Design Phase</a></h3>
+<h3><a href="2.%20Design%20Phase">2. Design Phase</a></h3>
 In the Design Phase, we will create a blueprint for our ship classification solution. This phase will include the following key elements:
 
 #### Proposed Solution
