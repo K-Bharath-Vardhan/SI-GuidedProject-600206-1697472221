@@ -1,9 +1,12 @@
 ## Project Design Phase 
 
+Welcome to the Design Phase of our Ship Classification Project. In this section, you'll find essential resources of our project's design. 
+
 ### Table of Contents
 
 <h3><a href = "Proposed%20Solution.pdf"> Proposed Solution </a> </h3>
 The proposed solution comprises of: <br><br>
+
 - Problem Statement: Identifying and addressing challenges in ship classification. <br>
 - Innovative Idea: A pioneering concept for maritime safety and traffic management. <br>
 - Novelty: Introducing advanced techniques, notably deep learning models. <br>
@@ -11,7 +14,10 @@ The proposed solution comprises of: <br><br>
 - Business Model: Offering the system as a service to stakeholders. <br>
 - Scalability: Ensuring adaptability to increased data and demand. <br>
 <br>
-Proposed Solution Drive Link: https://drive.google.com/file/d/1Es3ddAgzerztlAHlRMahdXxby33o7L2o/view?usp=drive_link
+
+
+Proposed Solution Drive Link: [https://drive.google.com/file/d/1Es3ddAgzerztlAHlRMahdXxby33o7L2o/view?usp=drive_link](https://drive.google.com/file/d/1Es3ddAgzerztlAHlRMahdXxby33o7L2o/view?usp=drive_link){:target="_blank"}
+
 
 <h3> <a href = "Solution%20Architecture.pdf">Solution Architecture</a> </h3>
 
