@@ -9,12 +9,12 @@ Welcome to the Ideation Phase of our Ship Classification Project. In this sectio
 Gain a deep understanding of our target audience, their needs, and pain points with our Empathy Map Canvas. This tool will help us develop user-centric solutions.
 <br><br>
 
-Empathy mural Link: https://app.mural.co/t/vitsmartinternz0250/m/vitsmartinternz0250/1697374528904/b6530f5fe12a45836dcc2efb9d2a440867e720b8?sender=u5e5d867d72b277d897990555
+Empathy Mural Drive Link: https://drive.google.com/file/d/1-vhEli7fa4x9OkQlgcZWv62iFS64VY2t/view?usp=drive_link 
 
 <h4><a href = "Brainstorming%20Map.pdf">Brainstorming Map</a></h4>
 Unleash your creativity and explore a wide range of ideas for our Ship Classification Project. This map will serve as a hub for innovative concepts and strategies.
 <br><br>
 
-Brainstorm Mural Link: https://app.mural.co/t/vitsmartinternz0250/m/vitsmartinternz0250/1697575753830/b7bb93c228ba0d12a42a1979c2e961e7ab908541
+Brainstorm Mural Drive Link: https://drive.google.com/file/d/17xyLcWmNE3duE7PezxP1kxwnTSiM3fMu/view?usp=drive_link
 
 Feel free to explore these resources. We appreciate your input and ideas as we embark on this exciting journey of ship classification.
