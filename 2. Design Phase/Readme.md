@@ -14,10 +14,7 @@ The proposed solution comprises of: <br><br>
 - Business Model: Offering the system as a service to stakeholders. <br>
 - Scalability: Ensuring adaptability to increased data and demand. <br>
 <br>
-
-
-Proposed Solution Drive Link: [https://drive.google.com/file/d/1Es3ddAgzerztlAHlRMahdXxby33o7L2o/view?usp=drive_link](https://drive.google.com/file/d/1Es3ddAgzerztlAHlRMahdXxby33o7L2o/view?usp=drive_link){:target="_blank"}
-
+Proposed Solution Drive Link: https://drive.google.com/file/d/1Es3ddAgzerztlAHlRMahdXxby33o7L2o/view?usp=drive_link
 
 <h3> <a href = "Solution%20Architecture.pdf">Solution Architecture</a> </h3>
 
