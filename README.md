@@ -35,3 +35,12 @@ We will design the technical architecture of our ship classification system. Thi
 
 #### Data Flow Diagram
 A data flow diagram will illustrate how data will be collected, processed, and fed into the machine learning model. It will show the data sources, data processing steps, and model training and evaluation processes.
+
+<h3><a href="3.%20Planning%20Phase">3. Planning Phase</a></h3>
+In the Planning Phase, we will create a plan for our ship classification model. This phase will include the following key elements:
+
+#### Technology Stack
+In this phase, we define the technology stack for the ship classification project, covering technical architecture, components & technologies, and application characteristics.
+
+#### Project Planning Details
+This section focuses on the planning aspects of the project, including the product backlog, sprint schedule, project tracker, velocity & burndown chart, board section, backlog section, and project timeline.
