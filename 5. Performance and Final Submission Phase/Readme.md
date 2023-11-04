@@ -4,12 +4,12 @@ Welcome to the Performance Evaluation Phase of the Ship Classification Project. 
 
 ### Table of Contents
 
-<h3><a href = "Performance%20Testing.pdf"> Performance Testing </a> </h3>
+<h3><a href = "Solution%20Performance.pdf"> Solution Performance </a> </h3>
 
-The performance testing comprises of: <br><br>
+The solution performance document comprises of: <br>
 
 - Model Summary: A brief description of the machine learning model's architecture, purpose, and characteristics.<br>
-- Accuracy: A percentage that measures a model's correctness in making predictions or classifications.<br>
+- Accuracy: A percentage that measures a model's correctness in making predictions or classifications for both training and validation.<br>
 
 Performance Testing Drive Link: https://drive.google.com/file/d/1pxcRiMm4Cb3NDpd462CLWXW1ppzz-7XO/view?usp=drive_link
 <h3><a href = "Project%20Documentation.pdf"> Project Documentation </a> </h3>
