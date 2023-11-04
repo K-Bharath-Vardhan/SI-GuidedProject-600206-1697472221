@@ -44,3 +44,9 @@ In this phase, we define the technology stack for the ship classification projec
 
 #### Project Planning Details
 This section focuses on the planning aspects of the project, including the product backlog, sprint schedule, project tracker, velocity & burndown chart, board section, backlog section, and project timeline.
+
+<h3><a href="4.%20Development%20Phase">4. Development Phase</a></h3>
+In the Development Phase, we will actively implement the ship classification model, building on the plan created during the Planning Phase. This phase encompasses the following key elements:
+
+#### Project Manual
+A project manual is a comprehensive guide that outlines project objectives, methodologies, roles, and best practices. It serves as a navigation tool and collaborative resource, ensuring systematic and successful project execution.
