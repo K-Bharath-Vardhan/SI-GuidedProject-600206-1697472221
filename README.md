@@ -50,3 +50,14 @@ In the Development Phase, we will actively implement the ship classification mod
 
 #### Project Manual
 A project manual is a comprehensive guide that outlines project objectives, methodologies, roles, and best practices. It serves as a navigation tool and collaborative resource, ensuring systematic and successful project execution.
+
+<h3><a href="5.%20Performance%20and%20Final%20Submission%20Phase">5. Performance and Final Submission Phase</a></h3>
+In the Performance and Final Submission Phases, we assess and refine the ship classification model developed in the previous phase. Our goal is to validate its performance and create a detailed report for the final submission.
+
+#### Solution Performance 
+The Solution Performance is a document that includes a summary of the model and its accuracy, encompassing both training and validation results.
+
+#### Project Documentation
+This comprehensive set of records includes details regarding data collection, deep learning model development, evaluation metrics, code, user interfaces, and deployment procedures. It serves as a vital reference for project stakeholders, offering support for troubleshooting, future maintenance, and the transfer of knowledge.
+
+Thank you for your hard work and dedication. Your commitment has brought us here, and success is on the horizon. Best of luck as we move forward!
