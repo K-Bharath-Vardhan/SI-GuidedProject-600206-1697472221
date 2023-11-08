@@ -13,7 +13,7 @@ The solution performance document comprises of: <br>
 
 Solution Performance Drive Link: https://drive.google.com/file/d/1pxcRiMm4Cb3NDpd462CLWXW1ppzz-7XO/view?usp=drive_link
 
-<h3><a href = "Project%20Documentation.pdf"> Project Documentation </a> </h3>
+<h3><a href = "Ship%20Classification%20Project%20Documentation.pdf"> Project Documentation </a> </h3>
 
 A comprehensive collection of records, reports, and documents that capture and organize information related to our project, including its objectives, plans, progress, financial aspects, risks, and outcomes.
 
