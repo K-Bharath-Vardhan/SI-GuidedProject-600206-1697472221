@@ -17,8 +17,8 @@ Solution Performance Drive Link: https://drive.google.com/file/d/1pxcRiMm4Cb3NDp
 
 A comprehensive collection of records, reports, and documents that capture and organize information related to our project, including its objectives, plans, progress, financial aspects, risks, and outcomes.
 
-Utilize these resources to ensure a smooth and successful final submission and performance phase of the Ship Classification Project!
-
-Project Documentation Drive Link: https://drive.google.com/file/d/19XQjRPbo23aj_rQz9h43FsmC6WF6oQp2/view?usp=sharing
+Project Documentation Drive Link: https://drive.google.com/file/d/15fGHi3Hrgi6zTbSORIMCZE-_kv-hCBhu/view?usp=drive_link
 
 Project Demo Video Drive Link: https://drive.google.com/file/d/1LHfqh6Hni-K2daN977YJAeF9a8XioWep/view?usp=drive_link
+
+Utilize these resources to ensure a smooth and successful final submission and performance phase of the Ship Classification Project!
