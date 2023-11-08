@@ -1,5 +1,7 @@
 # Ship Classification Project
 
+Project Demo Video Drive Link: https://drive.google.com/file/d/1LHfqh6Hni-K2daN977YJAeF9a8XioWep/view?usp=drive_link
+
 ## Overview
 
 The Ship Classification Project aims to develop a machine learning model that can accurately classify different types of ships based on their visual features. This project is a part of our commitment to advancing computer vision and machine learning techniques.
@@ -47,6 +49,16 @@ This section focuses on the planning aspects of the project, including the produ
 
 <h3><a href="4.%20Development%20Phase">4. Development Phase</a></h3>
 In the Development Phase, we will actively implement the ship classification model, building on the plan created during the Planning Phase. This phase encompasses the following key elements:
+
+
+#### Dataset
+This section features images of various ship types, such as cargo, cruise, military, tankers, and carriers. These images are integral to our project, serving for classification, analysis, and visual purposes. They are organized by ship type for easy access and use in development, testing, and related project tasks.
+
+#### Ship Classification Jupyter Notebook
+The Jupyter Notebook contains code and instructions for deep learning ship classification. It covers cargo, cruise, military, tankers, and carriers using image data. The notebook includes code, explanations, and visual tools to guide users in building and training ship classification models.
+
+#### Flask Source Code
+Here, you'll find the Flask source code for the "Ship Classification Project." It includes route definitions, view functions, HTML templates, and Flask configurations. This code is essential for understanding how Flask powers the project's web application.
 
 #### Project Manual
 A project manual is a comprehensive guide that outlines project objectives, methodologies, roles, and best practices. It serves as a navigation tool and collaborative resource, ensuring systematic and successful project execution.
